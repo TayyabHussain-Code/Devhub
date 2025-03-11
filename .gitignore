@@ -11,11 +11,9 @@ node_modules
 dist
 dist-ssr
 *.local
-.env
 package-lock.json
 
 # Editor directories and files
-.vscode/*
 !.vscode/extensions.json
 .idea
 .DS_Store
@@ -24,3 +22,4 @@ package-lock.json
 *.njsproj
 *.sln
 *.sw?
+config.bat
